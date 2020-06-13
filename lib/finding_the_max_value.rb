@@ -6,5 +6,5 @@ max_value > array
   puts array.
 
     count +=1
-end
+ end
 end
